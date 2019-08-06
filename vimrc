@@ -47,6 +47,8 @@ Plug 'derekwyatt/vim-scala'
 Plug 'fatih/vim-go'
 " 主题
 Plug 'sainnhe/vim-color-atlantis'
+" bash support
+Plug 'WolfgangMehner/bash-support'
 call plug#end()
 
 
